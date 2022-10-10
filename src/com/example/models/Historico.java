@@ -43,7 +43,7 @@ public class Historico {
 
     @Override
     public String toString() {
-        return "Historico{" +
+        return "HistoricoModificado{" +
                 "fecha=" + fecha +
                 ", saldoAnterior=" + saldoAnterior +
                 ", saldoActual=" + saldoActual +
